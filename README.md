@@ -1,6 +1,7 @@
 # discord-bot-verified
 
 you will need to add your bot 'TOKEN' in index.js file
+
 i have used replit for deployment, use can use other websites for hosting bot
 
 top.gg: https://top.gg/bot/847203009925742602
